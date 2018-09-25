@@ -1,9 +1,11 @@
 # Nam Nguyen | Software Engineer, iOS
+
 ### EDUCATION	
 Bachelor in Software Engineering
 University of Sciences HCMC - Vietnam National University
 
 ### WORKING EXPERIENCE
+
 It has been more than 8 years I’ve worked full-time in Software Development Industry. More than 3 years leading different teams including UI/UX, Backend, Mobile.
 Proficient in both Objective-C and Swift. Keen to build a strong, stable, flexible and scalable architectures.
 
@@ -90,19 +92,20 @@ Technique using: CocoaTouch, BlackBerry SDK
 Languages: Obj-C, Java
 
 ### SELF-EDUCATION	
-	* The Complete React Native and Redux Course.
-		* Instructor: Stephen Grider, Engineering Architect.
-		* Certification URL: https://www.udemy.com/certificate/UC-WI0QEV3N
-		* Certification Serial Number: UC-WI0QEV3N
-	* Node with React: Fullstack Web Development.
-		* Instructor: Stephen Grider, Engineering Architect.
-		* Certification URL: https://www.udemy.com/certificate/UC-DQN1L0C3
-		* Certification Serial Number: UC-DQN1L0C3
-	* Fundamentals of Data Mining.
-		* Instructor: Tech Lab.
-		* Certification URL: https://www.udemy.com/certificate/UC-OSZYBLO1
-		* Certification Serial Number: UC-OSZYBLO1
-	* Leadership Success Masterclass with Marshall Goldsmith
+
+* The Complete React Native and Redux Course.
+	* Instructor: Stephen Grider, Engineering Architect.
+	* Certification URL: https://www.udemy.com/certificate/UC-WI0QEV3N
+	* Certification Serial Number: UC-WI0QEV3N
+* Node with React: Fullstack Web Development.
+	* Instructor: Stephen Grider, Engineering Architect.
+	* Certification URL: https://www.udemy.com/certificate/UC-DQN1L0C3
+	* Certification Serial Number: UC-DQN1L0C3
+* Fundamentals of Data Mining.
+	* Instructor: Tech Lab.
+	* Certification URL: https://www.udemy.com/certificate/UC-OSZYBLO1
+	* Certification Serial Number: UC-OSZYBLO1
+* Leadership Success Masterclass with Marshall Goldsmith
 	* Instructor:  [Marshall Goldsmith](https://www.udemy.com/user/luke-j-joerger/) .
 	* Certification URL: https://www.udemy.com/certificate/UC-1KU5QWVI
 	* Certification Serial Number: UC-1KU5QWVI
@@ -110,6 +113,7 @@ Languages: Obj-C, Java
 	I believe that a Developer/Engineer’s responsibility is not only coding, but also solving problems. I keep updating myself by learning new technologies in various field of Software Engineering, keep reading and learning from my organization and many books. By doing that, I always get the newest solutions, also have the deeper understanding while working with different people in company such as Business team, UI/UX, Backend. The ultimate goal is higher productive and quality.
 
 ### PERSONALITY- Simple and transparent- Funny and humble
+
 	* Influent in communication
 	* Sharing helping people is my habit. 
 	* I would love to be a member of a world class organization, international environment.
